@@ -51,8 +51,6 @@ int main() {
             break;
         }
     }
-
     printf("\nMaximum value in knapsack = %.2f\n", totalValue);
-
     return 0;
 }
